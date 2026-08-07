@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**amir-9473/amir-9473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Machine Learning Engineer focused on building practical AI applications with Python.
 
-Here are some ideas to get you started:
+### 🚀 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LLMs • RAG • AI Agents • NLP • Machine Learning • Data Analysis 
+
+### 🛠 Tech Stack
+
+Python • Pandas • Scikit-learn • TensorFlow • LangChain • n8n • optuna • FAISS • Git
+
+### ⭐ Featured Projects
+
+* **Iranian Labor Law RAG Assistant** — Hybrid retrieval, reranking, grounded answers & citations
+* **AI Data Analyst Agent** — Natural-language data analysis with statistical tools and charts
+* **ML Hyperparameter Optimization** — Machine learning tuning and evaluation with Optuna
+
+### 📫 Contact
+
+[Telegram](https://t.me/Amiir9473) • [Email](mailto:amir.m.soleymani@gmail.com)
