@@ -4,17 +4,16 @@ AI / Machine Learning Engineer focused on building practical AI applications wit
 
 ### 🚀 Focus
 
-LLMs • RAG • AI Agents • NLP • Machine Learning • Data Analysis 
+LLMs • RAG • AI Agents • NLP • Machine Learning • Data Analysis • Time Series • transformers 
 
 ### 🛠 Tech Stack
 
-Python • Pandas • Scikit-learn • TensorFlow • LangChain • n8n • optuna • FAISS • Git
+Python • Pandas • Scikit-learn • TensorFlow • LangChain • n8n • Optuna • huggingface
 
 ### ⭐ Featured Projects
 
-* **Iranian Labor Law RAG Assistant** — Hybrid retrieval, reranking, grounded answers & citations
-* **AI Data Analyst Agent** — Natural-language data analysis with statistical tools and charts
-* **ML Hyperparameter Optimization** — Machine learning tuning and evaluation with Optuna
+* **Iranian Labor Law RAG Assistant** — [Hybrid retrieval, reranking, grounded answers & citations](https://github.com/amir-9473/laborlaw-rag-ir)
+* **AI Data Analyst Agent** — [Natural-language data analysis with statistical tools and charts](https://github.com/amir-9473/ai-data-analyst-agent)
 
 ### 📫 Contact
 
