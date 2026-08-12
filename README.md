@@ -14,6 +14,7 @@ Python • Pandas • Scikit-learn • TensorFlow • LangChain • n8n • Optu
 
 * **Iranian Labor Law RAG Assistant** — [Hybrid retrieval, reranking, grounded answers & citations](https://github.com/amir-9473/laborlaw-rag-ir)
 * **AI Data Analyst Agent** — [Natural-language data analysis with statistical tools and charts](https://github.com/amir-9473/ai-data-analyst-agent)
+* **Telegram Intelligence Agent** — [An n8n-first Telegram intelligence agent for public-channel monitoring.](https://github.com/amir-9473/telegram-intelligence-agent)
 
 ### 📫 Contact
 
